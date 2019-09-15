@@ -1,0 +1,6 @@
+framework module Pods_MVCacher_Tests {
+  umbrella header "Pods-MVCacher_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module AAMaterialSpinner {
+  umbrella header "AAMaterialSpinner-umbrella.h"
+
+  export *
+  module * { export * }
+}

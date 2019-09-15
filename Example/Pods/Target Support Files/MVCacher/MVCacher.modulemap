@@ -1,0 +1,6 @@
+framework module MVCacher {
+  umbrella header "MVCacher-umbrella.h"
+
+  export *
+  module * { export * }
+}
